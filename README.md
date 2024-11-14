@@ -5,7 +5,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&width=435&lines=Sobre%3A)](https://git.io/typing-svg)
 
-Olá, meu nome é José Luis Meneses da Silva, tenho 19 anos, e sou estudante de engenharia de software na Unicesumar, e de Sistemas de informação na UFPI. Desde minha primeira experiência com a programação, fiquei encantado pela capacidade de criar soluções inovadoras e estou ansioso para continuar a aprender e crescer neste empolgante campo.
+Olá, meu nome é José Luis Meneses da Silva, tenho 21 anos, e sou estudante de engenharia de software na Unicesumar, e de Sistemas de informação na UFPI. Desde minha primeira experiência com a programação, fiquei encantado pela capacidade de criar soluções inovadoras e estou ansioso para continuar a aprender e crescer neste empolgante campo.
 
 
 
